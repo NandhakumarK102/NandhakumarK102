@@ -8,5 +8,5 @@ do
  Sum=$(($dice1+$Sum))
 done
 echo "THe avg of dices"$(($Sum/5))
-
+echo "HELLO"
 
